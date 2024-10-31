@@ -29,4 +29,4 @@ Backend logic lives in `server/api.ts`. From here, you can change the prompt and
 
 ## Thank You!
 
-Thanks for reading! If you have any questions or comments, reach out me at sjm34@cornel.edu
+Thanks for reading! If you have any questions or comments, reach out me at sjm34@cornell.edu
